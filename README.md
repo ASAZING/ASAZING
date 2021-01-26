@@ -10,6 +10,11 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ASAZING&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASAZING&theme=buefy&layout=compact" />
+</a>
 <!--
 **ASAZING/ASAZING** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
