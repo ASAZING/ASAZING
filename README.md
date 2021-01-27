@@ -1,5 +1,7 @@
 ### Hi there 👋. I'm Malcolm Medina
 
+<img align="right" alt="GIF" src="https://i.gifer.com/39Cg.gif" />
+
 - 📫 You can reach me on [Facebook](https://www.facebook.com/xASAZINGx)
 
 ## ⚡ Technologies
