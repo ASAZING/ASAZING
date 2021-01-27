@@ -1,6 +1,6 @@
 ### Hi there 👋. I'm Malcolm Medina
 
-<img align="right" alt="GIF" src="https://i.gifer.com/39Cg.gif" />
+<img align="center" alt="GIF" src="https://i.imgur.com/hfC3eza.gif"/>
 
 - 📫 You can reach me on [Facebook](https://www.facebook.com/xASAZINGx)
 
