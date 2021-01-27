@@ -13,6 +13,8 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+<img align="center" alt="GIF" src="https://i.imgur.com/UIZbKwY.gif"/>
+
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ASAZING&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASAZING&theme=buefy&layout=compact" />
