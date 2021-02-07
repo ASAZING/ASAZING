@@ -15,7 +15,7 @@
 
 <img align="center" alt="GIF" src="https://i.imgur.com/UIZbKwY.gif"/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/ASAZING/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ASAZING&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASAZING&theme=buefy&layout=compact" />
 </a>
