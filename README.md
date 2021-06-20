@@ -1,6 +1,5 @@
-### Hi there 👋. I'm Malcolm Medina
-
-<img align="center" alt="GIF" src="https://i.imgur.com/hfC3eza.gif"/>
+### Hello there 👋. I'm Malcolm Medina.
+# Software Developer, Computer equipment maintenance experience. Well-versed in numerous programming languages including , Java, Dart, C#, PHP, JavaScript, MySQL, Postgresql and framework as Laravel, AngularJS, VueJS. Strong experience installing operating systems such as windows, and linux distributions.
 
 - 📫 You can reach me on [Facebook](https://www.facebook.com/xASAZINGx)
 
